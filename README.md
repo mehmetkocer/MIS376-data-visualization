@@ -1,7 +1,7 @@
 # MIS376-data-visualization
 This repository created for a data visualization project that given in scope of MIS376 Knowledge Mapping and Data Visualization Course.
 
-[For the video presetation](https://drive.google.com/drive/folders/1SXhcpuo1Y4OpsMb6lPUXVn9PeX6bLci5)
+[For the video presentation](https://drive.google.com/drive/folders/1SXhcpuo1Y4OpsMb6lPUXVn9PeX6bLci5)
 
 ### Part A - A brief description of the problem.
 This project intended to investigate the effects of lockdown periods on daily new cases specifically in Turkey. There are several lockdown periods include weekends and some complete, long-period (longer than one week) lockdowns. That project aims to visualize the effects of these variables on covid statistics and demonstrate the strength of the relationship if exists.
