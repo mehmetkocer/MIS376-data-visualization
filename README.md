@@ -17,4 +17,6 @@ Second data 'df_cities_risk_weekly.csv' is not available on the internet and we 
 
 ### The affect of the lockdown on the risk rate per weeks between 16 march to 23 May 2021.
 
+The lockdown started at week 6.
+
 ![Alt Text](visual.gif)
